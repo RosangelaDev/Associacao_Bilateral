@@ -1,4 +1,5 @@
-É importante para aumentar nosso conhecimento, auxilar no projetos se mais rapido,e a importância nas empresas buscam por poficionais assim proativos
+É importante para aumentar nosso conhecimento, auxilar no projetos para ser mais rapido,
+e a importância nas empresas buscam por profissionais conheça sobre o Git Hub
 
 
 
