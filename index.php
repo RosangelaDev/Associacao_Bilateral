@@ -7,6 +7,12 @@
 	<link rel="stylesheet" href="estilo.css">
 	<title>Avaliacao</title>
 	<h1 class="bla"></h1>
+	<p id="te">	Uma função em PHP é um bloco de código que pode ser 
+		reutilizado para executar uma tarefa específica. 
+		Ela pode receber argumentos, processá-los e retornar um resultado, 
+		ajudando a modularizar e organizar o código. 
+		As funções tornam o código mais legível, modular e fácil de manter.
+	</p>
 </head>
 <body>
 <img src="gato.jpg" style="height: 200px;"/>
