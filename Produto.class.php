@@ -24,6 +24,15 @@
 		}
 		
 		//métodos sets
+		/*Um método set, em termos simples, 
+		é um tipo de função em uma classe que permite 
+		alterar ou definir o valor de uma propriedade 
+		específica do objeto. Por exemplo, se tivermos 
+		uma classe Carro, um método set pode ser usado 
+		para definir o modelo do carro como "Toyota Corolla". 
+		Em suma, um método set "configura" o valor de uma 
+		propriedade de um objeto para um novo valor 
+		especificado.*/
 		
 		public function setNome($nome)
 		{
